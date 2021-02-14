@@ -86,7 +86,7 @@ Higor Moroni – [WhatsApp](https://api.whatsapp.com/send?phone=5513988685814) �
 
 # :closed_book: License
 
-Released in 2020 :closed_book: License
+Released in 2021 :closed_book: License
 
 Made with :heart: by [Higor Moroni](https://github.com/HigorMoroni) 🚀.
 This project is under the [MIT license](https://github.com/HigorMoroni/pokestores/master/LICENSE).
