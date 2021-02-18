@@ -1,10 +1,13 @@
 import React from 'react'
+import StoreBase from '../../components/BasePages/StoreBase';
 
 import logo from '../../images/logo-pokefire.png';
 
+import '../../styles/pages/stores/pokefire.scss';
+
 function Pokefire() {
   return (
-    <img src={logo} alt="Pokéfire" />
+    <StoreBase store="pokefire" logo={logo} />
   )
 }
 

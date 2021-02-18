@@ -1,10 +1,13 @@
 import React from 'react'
+import StoreBase from '../../components/BasePages/StoreBase';
 
 import logo from '../../images/logo-pokedragon.png';
 
+import '../../styles/pages/stores/pokedragon.scss';
+
 function Pokedragon() {
   return (
-    <img src={logo} alt="Pokédragon" />
+    <StoreBase store="pokedragon" logo={logo} />
   )
 }
 

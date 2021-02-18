@@ -1,10 +1,13 @@
 import React from 'react'
+import StoreBase from '../../components/BasePages/StoreBase';
 
 import logo from '../../images/logo-pokewater.png';
 
+import '../../styles/pages/stores/pokewater.scss';
+
 function Pokewater() {
   return (
-    <img src={logo} alt="Pokéwater" />
+    <StoreBase store="pokewater" logo={logo} />
   )
 }
 
