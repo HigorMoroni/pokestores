@@ -4,4 +4,8 @@ section#pokedragon {
   header.store {
     background-image: radial-gradient(circle at 50% -20.71%, #fd65ff 0, #dc52fd 25%, #b53cf2 50%, #8928e7 75%, #581ddf 100%);
   }
+
+  .pokemon-card {
+    background: linear-gradient(45deg, #fd65ff 0%, #581ddf 100%);
+  }
 }

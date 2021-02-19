@@ -4,4 +4,8 @@ section#pokefire {
   header.store {
     background-image: radial-gradient(circle at 50% -20.71%, #ffcb27 0, #ffb92d 12.5%, #ffa534 25%, #ff9039 37.5%, #f2793c 50%, #df643e 62.5%, #ce5240 75%, #be4343 87.5%, #b13846 100%);
   }
+
+  .pokemon-card {
+    background: linear-gradient(45deg, #b13846 0%, #ffcb27 100%);
+  }
 }
