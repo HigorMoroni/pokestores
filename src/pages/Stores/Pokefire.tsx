@@ -7,7 +7,7 @@ import '../../styles/pages/stores/pokefire.scss';
 
 function Pokefire() {
   return (
-    <StoreBase store="pokefire" logo={logo} />
+    <StoreBase key="fire" store="pokefire" logo={logo} />
   )
 }
 

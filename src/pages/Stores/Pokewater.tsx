@@ -7,7 +7,7 @@ import '../../styles/pages/stores/pokewater.scss';
 
 function Pokewater() {
   return (
-    <StoreBase store="pokewater" logo={logo} />
+    <StoreBase key="water" store="pokewater" logo={logo} />
   )
 }
 

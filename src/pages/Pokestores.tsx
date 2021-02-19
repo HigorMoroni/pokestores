@@ -16,7 +16,7 @@ function Pokestores() {
       </header>
       <div className="cards-list">
         {storesJson.map(({ id, name }) => {
-          return <Storecard key={id} id={id} name={name} />
+          return <Storecard key={name} id={id} name={name} />
         })}
       </div>
       <footer>

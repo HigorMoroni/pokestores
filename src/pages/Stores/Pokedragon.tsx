@@ -7,7 +7,7 @@ import '../../styles/pages/stores/pokedragon.scss';
 
 function Pokedragon() {
   return (
-    <StoreBase store="pokedragon" logo={logo} />
+    <StoreBase key="dragon" store="pokedragon" logo={logo} />
   )
 }
 
